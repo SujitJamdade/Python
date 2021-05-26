@@ -1,2 +1,3 @@
 # Python Learning 
-My python self learning work
+My python self learning work.
+
