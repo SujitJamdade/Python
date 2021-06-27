@@ -9,3 +9,4 @@ Python Websites :
 * w3schools
 * Geeksforgeeks
 * Javatpoint
+* Edureka
