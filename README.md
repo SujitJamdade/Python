@@ -1,5 +1,5 @@
 # Python Learning 
-My python self learning work.
+python self learning work.
 
 
 Python Websites :
